@@ -1,6 +1,6 @@
 .idea
-*.java
 *.jar
 *.war
 *.ear
 *.nar
+*.class
